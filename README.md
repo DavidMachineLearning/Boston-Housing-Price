@@ -4,10 +4,7 @@
 
 # Requirements
 
-# Language
 Python 3 (Tested on python 3.5.2)
-
-# Modules
 sklearn     0.19.1
 matplotlib  2.2.2
 numpy       1.14.5
