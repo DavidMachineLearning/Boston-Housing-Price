@@ -29,6 +29,8 @@ Finally, test the optimal model on a new sample and compare the predicted sellin
 
 “boston_housing.py”: Main Python script.
 
+"boston_housing.ipynb": Ipython notebook.
+
 “housing.csv”: The project dataset.
 
 “visuals.py”: Supplementary visualizations for the project.
