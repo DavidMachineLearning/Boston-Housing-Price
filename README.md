@@ -1,4 +1,6 @@
 # Machine Learning Engineer Nanodegree
+This repository is intended to be a simple example for regression model.
+This project is usefull for beginners who are just getting started with Machine Learning as well as being a reference for people which are currently enrolled in the Machine Learning Nanodegree.
 
 # Project: Predicting Boston Housing Prices
 
